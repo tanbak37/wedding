@@ -1,0 +1,28 @@
+<section class="section-4">
+  <div class="container pl-0 pr-0">
+    <div class="row">
+      <div class="col-2 pr-0 pl-0">
+      <img data-aos="fade-down-right" data-aos-duration="1500" src="https://drive.google.com/uc?id=1RAeEc3fZr_CdRno84IgAKJz65SWGttKA" class="img-fluid daun3" alt="Daun kiri">
+      </div>
+      <div class="col-8 text-center py-5">
+        <h2 data-aos="fade-down" data-aos-duration="1500" class="font-weight-light header-sec-4">Will You Attend?</h2>
+        <% if @undangan.kehadiran == true %>
+            <p class="cktext">Your responds: <span class="badge badge-pill badge-success">Accept with pleasure</span></p>
+            <p class="cktext">Thank you!</p>
+        <% end %>
+        <% if @undangan.kehadiran == false %>
+            <p class="cktext">Your responds: <span class="badge badge-pill badge-success">Decline with regrets</span></p>
+            <p class="cktext">Thank you!</p>
+        <% end %>
+        <h2 data-aos="fade-up" data-aos-duration="1500" class="font-weight-light header-sec-4">How many person?</h2>
+        <div data-aos="fade-up" data-aos-duration="1500" class='persons mb-2'>
+          <input disabled class='counter bg-white' placeholder="0" value='<%= @undangan.jumlah_tamu %>' />
+        </div>       
+        <%= link_to 'Edit', edit_undangan_path(@undangan), :class => "btn btn-outline-light", method: :get %>
+      </div>
+      <div class="col-2 pr-0 pl-0 text-right">
+        <img data-aos="fade-down-left" data-aos-duration="1500" src="https://drive.google.com/uc?id=1rN2DGJhFELVFPaaCojPtpWWeQPBVkLpj" class="img-fluid daun4" alt="Daun kanan">
+      </div>
+    </div>
+  </div>
+</section>

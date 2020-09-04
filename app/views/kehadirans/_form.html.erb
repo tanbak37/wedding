@@ -1,0 +1,34 @@
+<%= form_with(model: kehadiran, method: :put) do |form| %>
+  <% if kehadiran.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(kehadiran.errors.count, "error") %> prohibited this kehadiran from being saved:</h2>
+
+      <ul>
+        <% kehadiran.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<% if false %>
+  <div class="field">
+    <%= form.label :undangan_id %>
+    <%= form.text_field :undangan_id %>
+  </div>
+<% end %>
+
+  <div class="field">
+    <%= form.label :hadir %>
+    <%= form.check_box :hadir %>
+  </div>
+
+  <div class="field">
+    <%= form.label :jumlah_tamu %>
+    <%= form.text_field :jumlah_tamu %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

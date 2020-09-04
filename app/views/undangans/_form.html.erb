@@ -1,0 +1,11 @@
+<%= render 'static_pages/header' %>
+<%= render 'static_pages/section1' %>
+<%= render 'static_pages/section2' %>
+<%= render 'static_pages/section3' %>
+<% if @undangan %>
+ <%= render 'static_pages/section4b' %>
+<% else %>
+<%= render 'static_pages/section5' %>
+<% end %>
+<%= render 'static_pages/section6' %>
+<%= render 'static_pages/footer' %>
