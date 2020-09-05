@@ -35,9 +35,12 @@
           <span><%= form.text_field :jumlah_tamu, id: "1", class: "field counter", placeholder: "0" %></span>
           <span><button name="button" type="button" class="add btn btn-info">+</button></span>
         </div>
-        <div class="actions">
+        <div data-aos="fade-up" data-aos-duration="1500" class="actions">
           <%= form.submit "Submit", class: "btn btn-outline-light" %>
         </div>
+        <p data-aos="fade-up" data-aos-duration="1500" class="getinvitation-subtitle mt-5">
+          We suggest you to use your most comfortable footwear.
+        </p>
       </div>
       <div class="col-2 pr-0 pl-0 text-right">
         <%= image_tag "daun4.png", class: "img-fluid daun4", alt: "Daun kanan", :data => {:aos => 'fade-down-left', :aos_duration => '1500' } %>

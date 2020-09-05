@@ -18,7 +18,10 @@
         <div data-aos="fade-up" data-aos-duration="1500" class='persons mb-2'>
           <input disabled class='counter bg-white' placeholder="0" value='<%= @undangan.jumlah_tamu %>' />
         </div>       
-        <%= link_to 'Edit', edit_undangan_path(@undangan, anchor: "section4"), :class => "btn btn-outline-light", method: :get %>
+        <%= link_to 'Edit', edit_undangan_path(@undangan, anchor: "section4"), :class => "btn btn-outline-light", method: :get, :data => {:aos => 'fade-up', :aos_duration => '1500' } %>
+        <p data-aos="fade-up" data-aos-duration="1500" class="getinvitation-subtitle mt-5">
+          We suggest you to use your most comfortable footwear.
+        </p>
       </div>
       <div class="col-2 pr-0 pl-0 text-right">
         <%= image_tag "daun4.png", class: "img-fluid daun4", alt: "Daun kanan", :data => {:aos => 'fade-down-left', :aos_duration => '1500' } %>
