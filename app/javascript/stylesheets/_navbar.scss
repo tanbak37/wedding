@@ -7,7 +7,7 @@
 }
 
 body {
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 .section-5 {
@@ -38,6 +38,9 @@ body {
   
   /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+  body {
+    overflow-x: hidden !important;
+  }
   .masthead {
     height: 35vh;
     display: flex;
@@ -289,6 +292,9 @@ body {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
+  body {
+    overflow-x: hidden !important;
+  }
   .masthead {
     display: flex;
     background: url("~header.jpg") no-repeat;
@@ -538,6 +544,9 @@ body {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  body {
+    overflow-x: hidden !important;
+  }
   .masthead {
     display: flex;
     background: url("~header.jpg") no-repeat;
@@ -788,6 +797,9 @@ body {
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  body {
+    overflow-x: hidden !important;
+  }
   .masthead {
     display: flex;
     background: url("~header.jpg") no-repeat;
@@ -1038,6 +1050,9 @@ body {
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+  body {
+    overflow-x: hidden !important;
+  }
   .masthead {
     display: flex;
     background:  url("~header.jpg") no-repeat;
