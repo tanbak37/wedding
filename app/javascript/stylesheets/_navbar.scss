@@ -1,16 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Mulish&display=swap');
 .masthead {
   height: 100vh;
+  background: url("~header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-body, html{
+body {
   overflow-x: hidden;
 }
 
 .section-5 {
   height: 40vh;
+  background: url("~bunga1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -36,13 +38,10 @@ body, html{
   
   /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  body, html {
-    overflow-x: hidden;
-  }
   .masthead {
     height: 35vh;
     display: flex;
-    background: no-repeat center center;
+    background: url("~header.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -74,12 +73,10 @@ body, html{
   }
   // Section Nama Yang diundang
   .daun3 {
-    max-width: 100%;
     height: auto;
     transform: rotate(-10deg) translateX(20);
   }
   .daun4 {
-    max-width: 100%; 
     height: auto;
     transform: rotate(10deg) translateX(-20);;
   }
@@ -122,7 +119,6 @@ body, html{
     position: relative;
     width: 110px;
     height: 110px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -134,7 +130,6 @@ body, html{
     position: relative;
     width: 110px;
     height: 110px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -268,7 +263,7 @@ body, html{
     padding-top: 1rem;
     height: 25vh;
     display: flex;
-    background: no-repeat center center;
+    background: url("~bunga1.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -294,12 +289,9 @@ body, html{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  body, html{
-    overflow-x: hidden;
-  }
   .masthead {
     display: flex;
-    background: no-repeat;
+    background: url("~header.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -378,7 +370,6 @@ body, html{
     position: relative;
     width: 115px;
     height: 115px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -390,7 +381,6 @@ body, html{
     position: relative;
     width: 115px;
     height: 115px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -522,7 +512,7 @@ body, html{
     padding-bottom: 1rem;
     padding-top: 1rem;
     display: flex;
-    background: no-repeat;
+    background: url("~bunga1.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -550,7 +540,7 @@ body, html{
 @media only screen and (min-width: 768px) {
   .masthead {
     display: flex;
-    background: no-repeat;
+    background: url("~header.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -629,7 +619,6 @@ body, html{
     position: relative;
     width: 120px;
     height: 120px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -641,7 +630,6 @@ body, html{
     position: relative;
     width: 120px;
     height: 120px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -774,7 +762,7 @@ body, html{
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
     display: flex;
-    background: no-repeat;
+    background: url("~bunga1.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -800,12 +788,9 @@ body, html{
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-  body, html{
-    overflow-x: hidden;
-  }
   .masthead {
     display: flex;
-    background: no-repeat;
+    background: url("~header.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -884,7 +869,6 @@ body, html{
     position: relative;
     width: 130px;
     height: 130px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -896,7 +880,6 @@ body, html{
     position: relative;
     width: 130px;
     height: 130px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -1029,7 +1012,7 @@ body, html{
     padding-bottom: 2rem;
     padding-top: 2rem;
     display: flex;
-    background: no-repeat;
+    background: url("~bunga1.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1055,12 +1038,9 @@ body, html{
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  body, html{
-    overflow-x: hidden;
-  }
   .masthead {
     display: flex;
-    background: no-repeat;
+    background:  url("~header.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1140,7 +1120,6 @@ body, html{
     position: relative;
     width: 150px;
     height: 150px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -1153,7 +1132,6 @@ body, html{
     position: relative;
     width: 150px;
     height: 150px;
-    overflow: hidden;
     border-radius: 50%;
     border: 1px solid #996515;
   }
@@ -1287,7 +1265,7 @@ body, html{
     padding-bottom: 2rem;
     padding-top: 2rem;
     display: flex;
-    background: no-repeat;
+    background: url("~bunga1.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
