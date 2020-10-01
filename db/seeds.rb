@@ -79,5 +79,8 @@ Undangan.create([
                   { name: 'Juwita Winadwiastuti', jam_mulai: '08.00', jam_selesai: '10.00' },
                   { name: 'Inggrid Anggita', jam_mulai: '08.00', jam_selesai: '10.00' },
                   { name: 'Alisca Damayanti', jam_mulai: '08.00', jam_selesai: '10.00' },
-                  { name: 'Eva Utari Cintamurni Lubis', jam_mulai: '08.00', jam_selesai: '10.00' }
+                  { name: 'Eva Utari Cintamurni Lubis', jam_mulai: '08.00', jam_selesai: '10.00' },
+                  { name: 'Nurasiah', jam_mulai: '10.00', jam_selesai: '12.00' },
+                  { name: 'Ester Pascalia', jam_mulai: '10.00', jam_selesai: '12.00' },
+                  { name: 'Syalis Ibnih Melati Istini', jam_mulai: '10.00', jam_selesai: '12.00' },
                 ])
