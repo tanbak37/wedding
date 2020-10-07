@@ -12,6 +12,33 @@
   max-width: 100%;
 }
 
+.welcome-modal {
+  font-family: 'Great Vibes', cursive;
+  color: #996515;
+  font-size: 2rem;
+}
+
+.music {
+  z-index: 2;
+  position: fixed;
+  bottom: 8%;
+  left: 2%;
+  cursor: pointer;
+  height: 50px;
+  line-height: 50px;  
+  width: 50px;  
+  font-size: 1.2em;
+  font-weight: bold;
+  border-radius: 50%;
+  background-color: #996515;
+  color: white;
+  text-align: center;
+  &:hover {
+    color: #ffffff;
+  text-decoration: none;
+  }
+}
+
 .section-5 {
   height: 40vh;
   background: url("~bunga1.jpg");

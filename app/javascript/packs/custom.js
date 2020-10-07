@@ -53,3 +53,27 @@ $(function() {
       $(this).parent().next().children(".field").val(0);
   });
 });
+
+$(function() {
+  $(window).on('load',function(){        
+    $('#myModal').modal('show');
+    }); 
+});
+
+$(function() {
+  $(document).ready(function () {
+    var playing = false;
+    $('.play-pause').click(function () {
+     if (playing == false) {
+      document.getElementById('player').play();
+      playing = true;
+      $(this).html($('<i/>',{class:'fas fa-play'}));
+   
+     } else {
+      document.getElementById('player').pause();
+      playing = false;
+      $(this).html($('<i/>',{class:'fas fa-volume-mute'}));
+     }
+    });
+   });
+});
