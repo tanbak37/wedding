@@ -67,12 +67,12 @@ $(function() {
      if (playing == false) {
       document.getElementById('player').play();
       playing = true;
-      $(this).html($('<i/>',{class:'fas fa-play'}));
+      $(this).html($('<i/>',{class:'fas fa-volume-mute'}));
    
      } else {
       document.getElementById('player').pause();
       playing = false;
-      $(this).html($('<i/>',{class:'fas fa-volume-mute'}));
+      $(this).html($('<i/>',{class:'fas fa-play'}));
      }
     });
    });
