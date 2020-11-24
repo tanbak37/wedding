@@ -14,13 +14,13 @@
 
 .welcome-modal {
   font-family: 'Great Vibes', cursive;
-  color: #996515;
+  color: #ffc107;
   font-size: 2rem;
 }
 
 .welcome-modal-subtitle {
   font-family: 'Mulish', sans-serif;
-  color: #996515;
+  color: #ffc107;
   font-size: 1rem;
 }
 
@@ -32,12 +32,12 @@
   left: 2%;
   cursor: pointer;
   height: 50px;
-  line-height: 50px;  
-  width: 50px;  
+  line-height: 50px;
+  width: 50px;
   font-size: 1.2em;
   font-weight: bold;
   border-radius: 50%;
-  background-color: #996515;
+  background-color: #ffc107;
   color: white;
   text-align: center;
   &:hover {
@@ -56,7 +56,7 @@
 
 .bg-grey {
   background-color: #f3f3f3;
-  color: #996515;
+  color: #ffc107;
 }
 
 .section-1 {
@@ -68,10 +68,10 @@
 }
 
 .badge-success {
-  background-color: #996515;
+  background-color: #ffc107;
 }
 
-  
+
   /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .wrapper {
@@ -91,8 +91,8 @@
   }
   .nama-pengantin {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
-    font-size: 2.5rem;
+    color: #007bff;
+    font-size: 4rem;
   }
   .tgl-menikah {
     font-family: 'Mulish', sans-serif;
@@ -101,14 +101,14 @@
     margin-bottom: 0;
   }
   .daun1 {
-    max-width: 20%; 
-    height: auto; 
+    max-width: 20%;
+    height: auto;
     transform: rotate(50deg) translateY(-25px);
     margin-right: 2rem;
    }
   .daun2 {
-    max-width: 20%; 
-    height: auto; 
+    max-width: 20%;
+    height: auto;
     transform: rotate(-50deg) translateY(-25px);
     margin-left: 2rem;
   }
@@ -123,7 +123,7 @@
   }
   .nama-undangan {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2rem;
   }
   .text1 {
@@ -133,12 +133,12 @@
   }
   .text2 {
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   .timer {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3rem;
   }
   .timer-1 {
@@ -149,7 +149,7 @@
   // section 2
   .header-sec-2 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.8rem;
   }
   .mutia-img img {
@@ -161,7 +161,7 @@
     width: 110px;
     height: 110px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .angga-img img {
     width: 100%;
@@ -172,11 +172,11 @@
     width: 110px;
     height: 110px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .nama-pengantin-1 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   .about-pengantin {
@@ -189,14 +189,14 @@
     font-size: 2rem;
   }
   .sosmed-logo {
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
-  
+
   // section 3
   .header-sec-3 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.4rem;
   }
   .iframe-maps {
@@ -205,7 +205,7 @@
   }
   .text-3{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   .text-4{
@@ -215,12 +215,12 @@
   }
   .text-5{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 0.6rem;
   }
   .header-sec-4 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.4rem;
   }
   .custom-form-check {
@@ -232,67 +232,67 @@
   }
   .cktext{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 0.6rem;
   }
   .counter {
     width: 100px;
-    height: 30px;  
+    height: 30px;
     border-bottom: 1px solid #daa520;
     border-right: none;
     border-left: none;
     border-top: none;
     text-align: center;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
     font-family: 'Mulish', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
   }
   .up_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-left: -4px;
-  } 
+  }
   .down_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-right: -4px;
   }
   .btn-info {
-    color: #996515;
+    color: #ffc107;
     background-color: white;
     border-color: #daa520;
   }
   .btn-info:hover {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-outline-light {
-    color: #996515;
+    color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:hover {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:focus, .btn-outline-light.focus {
@@ -319,7 +319,7 @@
   .getinvitation-title {
     font-family: 'Mulish', sans-serif;
     font-size: 1.5rem;
-    color: #996515;
+    color: #ffc107;
   }
   .getinvitation-subtitle {
     font-family: 'Mulish', sans-serif;
@@ -345,7 +345,7 @@
   }
   .nama-pengantin {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3rem;
   }
   .tgl-menikah {
@@ -355,31 +355,31 @@
     margin-bottom: 0;
   }
   .daun1 {
-    max-width: 16%; 
-    height: auto; 
+    max-width: 16%;
+    height: auto;
     transform: rotate(50deg) translateY(-25px);
     margin-right: 2rem;
    }
   .daun2 {
-    max-width: 16%; 
-    height: auto; 
+    max-width: 16%;
+    height: auto;
     transform: rotate(-50deg) translateY(-25px);
     margin-left: 2rem;
   }
   // Section Nama Yang diundang
   .daun3 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(-10deg) ;
   }
   .daun4 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(10deg);
   }
   .nama-undangan {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2rem;
   }
   .text1 {
@@ -389,12 +389,12 @@
   }
   .text2 {
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.2rem;
   }
   .timer {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3.5rem;
   }
   .timer-1 {
@@ -405,7 +405,7 @@
   // section 2
   .header-sec-2 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.8rem;
   }
   .mutia-img img {
@@ -417,7 +417,7 @@
     width: 115px;
     height: 115px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .angga-img img {
     width: 100%;
@@ -428,11 +428,11 @@
     width: 115px;
     height: 115px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .nama-pengantin-1 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.2rem;
   }
   .about-pengantin {
@@ -445,13 +445,13 @@
     font-size: 2.3rem;
   }
   .sosmed-logo {
-    color: #996515;
+    color: #ffc107;
     font-size: 1.1rem;
   }
   // section 3
   .header-sec-3 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.8rem;
   }
   .iframe-maps {
@@ -460,7 +460,7 @@
   }
   .text-3{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   .text-4{
@@ -470,12 +470,12 @@
   }
   .text-5{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 0.6rem;
   }
   .header-sec-4 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.8rem;
   }
   .custom-form-check {
@@ -487,67 +487,67 @@
   }
   .cktext{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 0.8rem;
   }
   .counter {
     width: 100px;
-    height: 30px;  
+    height: 30px;
     border-bottom: 1px solid #daa520;
     border-right: none;
     border-left: none;
     border-top: none;
     text-align: center;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
     font-family: 'Mulish', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
   }
   .up_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-left: -4px;
-  } 
+  }
   .down_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-right: -4px;
   }
   .btn-info {
-    color: #996515;
+    color: #ffc107;
     background-color: white;
     border-color: #daa520;
   }
   .btn-info:hover {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-outline-light {
-    color: #996515;
+    color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:hover {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:focus, .btn-outline-light.focus {
@@ -573,7 +573,7 @@
   .getinvitation-title {
     font-family: 'Mulish', sans-serif;
     font-size: 1.5rem;
-    color: #996515;
+    color: #ffc107;
   }
   .getinvitation-subtitle {
     font-family: 'Mulish', sans-serif;
@@ -599,41 +599,41 @@
   }
   .nama-pengantin {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffe007;
     font-size: 4rem;
   }
   .tgl-menikah {
     font-family: 'Mulish', sans-serif;
-    color: #daa520;
+    color: #ffe007;
     font-size: 2rem;
     margin-bottom: 0;
   }
   .daun1 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(50deg) translateY(-25px);
     margin-right: 2rem;
    }
   .daun2 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(-50deg) translateY(-25px);
     margin-left: 2rem;
   }
   // Section Nama Yang diundang
   .daun3 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(-10deg) ;
   }
   .daun4 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(10deg);
   }
   .nama-undangan {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3rem;
   }
   .text1 {
@@ -643,12 +643,12 @@
   }
   .text2 {
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.7rem;
   }
   .timer {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3.8rem;
   }
   .timer-1 {
@@ -659,7 +659,7 @@
   // section 2
   .header-sec-2 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.8rem;
   }
   .mutia-img img {
@@ -671,7 +671,7 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .angga-img img {
     width: 100%;
@@ -682,11 +682,11 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .nama-pengantin-1 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
   }
   .about-pengantin {
@@ -699,13 +699,13 @@
     font-size: 2.6rem;
   }
   .sosmed-logo {
-    color: #996515;
+    color: #ffc107;
     font-size: 1.3rem;
   }
   // section 3
   .header-sec-3 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2rem;
   }
   .iframe-maps {
@@ -714,7 +714,7 @@
   }
   .text-3{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.2rem;
   }
   .text-4{
@@ -724,13 +724,13 @@
   }
   .text-5{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 0.8rem;
   }
   // section 4
   .header-sec-4 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2rem;
   }
   .custom-form-check {
@@ -742,67 +742,67 @@
   }
   .cktext{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   .counter {
     width: 100px;
-    height: 30px;  
+    height: 30px;
     border-bottom: 1px solid #daa520;
     border-right: none;
     border-left: none;
     border-top: none;
     text-align: center;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
     font-family: 'Mulish', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
   }
   .up_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-left: -4px;
-  } 
+  }
   .down_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-right: -4px;
   }
   .btn-info {
-    color: #996515;
+    color: #ffc107;
     background-color: white;
     border-color: #daa520;
   }
   .btn-info:hover {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-outline-light {
-    color: #996515;
+    color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:hover {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:focus, .btn-outline-light.focus {
@@ -828,7 +828,7 @@
   .getinvitation-title {
     font-family: 'Mulish', sans-serif;
     font-size: 1.5rem;
-    color: #996515;
+    color: #ffc107;
   }
   .getinvitation-subtitle {
     font-family: 'Mulish', sans-serif;
@@ -854,7 +854,7 @@
   }
   .nama-pengantin {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 4rem;
   }
   .tgl-menikah {
@@ -864,31 +864,31 @@
     margin-bottom: 0;
   }
   .daun1 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(50deg) translateY(-25px);
     margin-right: 2rem;
    }
   .daun2 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(-50deg) translateY(-25px);
     margin-left: 2rem;
   }
   // Section Nama Yang diundang
   .daun3 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(-10deg) ;
   }
   .daun4 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(10deg);
   }
   .nama-undangan {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3rem;
   }
   .text1 {
@@ -898,12 +898,12 @@
   }
   .text2 {
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.7rem;
   }
   .timer {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3.8rem;
   }
   .timer-1 {
@@ -914,7 +914,7 @@
   // section 2
   .header-sec-2 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.8rem;
   }
   .mutia-img img {
@@ -926,7 +926,7 @@
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .angga-img img {
     width: 100%;
@@ -937,11 +937,11 @@
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .nama-pengantin-1 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.8rem;
   }
   .about-pengantin {
@@ -954,13 +954,13 @@
     font-size: 2.8rem;
   }
   .sosmed-logo {
-    color: #996515;
+    color: #ffc107;
     font-size: 1.4rem;
   }
   // section 3
   .header-sec-3 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.5rem;
   }
   .iframe-maps {
@@ -969,7 +969,7 @@
   }
   .text-3{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.3rem;
   }
   .text-4{
@@ -979,13 +979,13 @@
   }
   .text-5{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   // section 4
   .header-sec-4 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.5rem;
   }
   .custom-form-check {
@@ -997,67 +997,67 @@
   }
   .cktext{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.2rem;
   }
   .counter {
     width: 100px;
-    height: 30px;  
+    height: 30px;
     border-bottom: 1px solid #daa520;
     border-right: none;
     border-left: none;
     border-top: none;
     text-align: center;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
     font-family: 'Mulish', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
   }
   .up_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-left: -4px;
-  } 
+  }
   .down_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-right: -4px;
   }
   .btn-info {
-    color: #996515;
+    color: #ffc107;
     background-color: white;
     border-color: #daa520;
   }
   .btn-info:hover {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-outline-light {
-    color: #996515;
+    color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:hover {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:focus, .btn-outline-light.focus {
@@ -1083,7 +1083,7 @@
   .getinvitation-title {
     font-family: 'Mulish', sans-serif;
     font-size: 1.5rem;
-    color: #996515;
+    color: #ffc107;
   }
   .getinvitation-subtitle {
     font-family: 'Mulish', sans-serif;
@@ -1109,7 +1109,7 @@
   }
   .nama-pengantin {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 4rem;
   }
   .tgl-menikah {
@@ -1119,31 +1119,31 @@
     margin-bottom: 0;
   }
   .daun1 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(50deg) translateY(-25px);
     margin-right: 2rem;
    }
   .daun2 {
-    max-width: 8%; 
-    height: auto; 
+    max-width: 8%;
+    height: auto;
     transform: rotate(-50deg) translateY(-25px);
     margin-left: 2rem;
   }
   // Section Nama Yang diundang
   .daun3 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(-10deg);
   }
   .daun4 {
-    max-width: 70%; 
+    max-width: 70%;
     height: auto;
     transform: rotate(10deg);
   }
   .nama-undangan {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3rem;
   }
   .text1 {
@@ -1153,12 +1153,12 @@
   }
   .text2 {
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.3rem;
   }
   .timer {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 3.8rem;
   }
   .timer-1 {
@@ -1169,7 +1169,7 @@
   // section 2
   .header-sec-2 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.8rem;
   }
   .mutia-img img {
@@ -1182,7 +1182,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .angga-img img {
     width: 100%;
@@ -1194,11 +1194,11 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 1px solid #996515;
+    border: 1px solid #ffc107;
   }
   .nama-pengantin-1 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2rem;
   }
   .about-pengantin {
@@ -1211,13 +1211,13 @@
     font-size: 3rem;
   }
   .sosmed-logo {
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
   }
   // section 3
   .header-sec-3 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.5rem;
   }
   .iframe-maps {
@@ -1226,7 +1226,7 @@
   }
   .text-3{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.3rem;
   }
   .text-4{
@@ -1236,13 +1236,13 @@
   }
   .text-5{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1rem;
   }
   // section 4
   .header-sec-4 {
     font-family: 'Great Vibes', cursive;
-    color: #996515;
+    color: #ffc107;
     font-size: 2.5rem;
     margin-bottom: 2rem;
   }
@@ -1255,67 +1255,67 @@
   }
   .cktext{
     font-family: 'Mulish', sans-serif;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.2rem;
   }
   .counter {
     width: 100px;
-    height: 30px;  
+    height: 30px;
     border-bottom: 1px solid #daa520;
     border-right: none;
     border-left: none;
     border-top: none;
     text-align: center;
-    color: #996515;
+    color: #ffc107;
     font-size: 1.5rem;
     font-family: 'Mulish', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
   }
   .up_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-left: -4px;
-  } 
+  }
   .down_count {
-    margin-bottom: 10px;  
+    margin-bottom: 10px;
     margin-right: -4px;
   }
   .btn-info {
-    color: #996515;
+    color: #ffc107;
     background-color: white;
     border-color: #daa520;
   }
   .btn-info:hover {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem #daa520a9;
   }
   .btn-outline-light {
-    color: #996515;
+    color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:hover {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
     color: #ffffff;
-    background-color: #996515;
+    background-color: #ffc107;
     border-color: #daa520;
   }
   .btn-outline-light:focus, .btn-outline-light.focus {
@@ -1341,11 +1341,11 @@
   .getinvitation-title {
     font-family: 'Mulish', sans-serif;
     font-size: 2rem;
-    color: #996515;
+    color: #ffc107;
   }
   .getinvitation-subtitle {
     font-family: 'Mulish', sans-serif;
     font-size: 1.2rem;
     color: #daa520;
   }
-}  
+}
