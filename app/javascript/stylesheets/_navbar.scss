@@ -1349,4 +1349,7 @@
     font-size: 1.2rem;
     color: #daa520;
   }
+  .h1 { @include font-size($h1-font-size); 
+		  margin-top: 1.8rem;
+		}
 }
