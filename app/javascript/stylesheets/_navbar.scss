@@ -315,6 +315,8 @@
     font-family: 'Great Vibes', cursive;
     color: #ffffff;
     font-size: 1.5rem;
+	margin-top: 3rem;
+
   }
   // section 5
   .getinvitation-title {
@@ -1350,6 +1352,6 @@
     color: #daa520;
   }
   .h1 { @include font-size($h1-font-size); 
-		  margin-top: 1.8rem;
+		  margin-top: 3rem;
 		}
 }
