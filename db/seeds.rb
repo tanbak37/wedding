@@ -86,10 +86,10 @@
 #                 ])
 
 Undangan.create([
-                    { name: 'math SBI_11', jam_mulai: '10.00', jam_selesai: 'Selesai' },
-					{ name: 'CAUR', jam_mulai: '10.00', jam_selesai: 'Selesai' },
-					{ name: 'Ibu Hj. Sis & suami', jam_mulai: '10.00', jam_selesai: 'Selesai' },
-					{ name: 'Ibu Hj. Yetty & suami', jam_mulai: '10.00', jam_selesai: 'Selesai' },
-					{ name: 'Ibu Hj. Mulyati & suami', jam_mulai: '10.00', jam_selesai: 'Selesai' },
+                    { name: 'math SBI_11', jam_mulai: '12.00', jam_selesai: 'Selesai' },
+					{ name: 'CAUR', jam_mulai: '12.00', jam_selesai: 'Selesai' },
+					{ name: 'Ibu Hj. Sis & suami', jam_mulai: '12.00', jam_selesai: 'Selesai' },
+					{ name: 'Ibu Hj. Yetty & suami', jam_mulai: '12.00', jam_selesai: 'Selesai' },
+					{ name: 'Ibu Hj. Mulyati & suami', jam_mulai: '12.00', jam_selesai: 'Selesai' },
                     {name: 'Bulek Wah',jam_mulai: '08:00',jam_selesai: '10:00'}
                   ])
