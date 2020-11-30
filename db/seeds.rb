@@ -86,21 +86,9 @@
 #                 ])
 
 Undangan.create([
-{ name:'Ibu Hj. Sis & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Hj. Yetty & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Hj. Mulyati & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Evi & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Yanti & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Rini & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ibu Elke & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'BEGE Squad',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Novi sistyati & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Deby R.F & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Della Puspa Winata & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Cut Devi & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Nastiti & suami',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Imelda & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ryano & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-{ name:'Ican & partner',jam_mulai: '12.00', jam_selesai: 'Selesai' },
-                    {name: 'Bulek Wah',jam_mulai: '08:00',jam_selesai: '10:00'}
+{ name:'Dede',jam_mulai: '12.00', jam_selesai: '15:00' },
+{ name:'Aryok',jam_mulai: '12.00', jam_selesai: '15:00' },
+{ name:'Welly',jam_mulai: '12.00', jam_selesai: '15:00' },
+{ name:'Mas Ersa',jam_mulai: '12.00', jam_selesai: '15:00' }
+
                   ])
