@@ -86,16 +86,16 @@
 #                 ])
 
 Undangan.create([
-{ name:'Patan',jam_mulai: '09.00', jam_selesai: '15:00' },
-{ name:'Ojan',jam_mulai: '09.00', jam_selesai: '15:00' },
-{ name:'Jaing',jam_mulai: '09.00', jam_selesai: '15:00' },
-{ name:'Angga',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Andrey',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Elvin',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Okta',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Wawan',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Bayu',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Rustam',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Ijal',jam_mulai: '12.00', jam_selesai: '15:00' }
+{ name:'Patan',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ojan',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Jaing',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Angga',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Andrey',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Elvin',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Okta',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Wawan',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Bayu',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Rustam',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ijal',jam_mulai: '09:00', jam_selesai: '15:00' }
 
                   ])
