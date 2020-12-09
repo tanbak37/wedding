@@ -91,6 +91,7 @@ Undangan.create([
 { name:'Welly',jam_mulai: '12.00', jam_selesai: '15:00' },
 { name:'Mas Ersa',jam_mulai: '12.00', jam_selesai: '15:00' },
 { name:'Riski',jam_mulai: '12.00', jam_selesai: '15:00' },
-{ name:'Qoyim',jam_mulai: '12.00', jam_selesai: '15:00' }
+{ name:'Qoyim',jam_mulai: '12.00', jam_selesai: '15:00' },
+{ name:'Wahyuk',jam_mulai: '12.00', jam_selesai: '15:00' }
 
                   ])
