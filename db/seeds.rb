@@ -102,6 +102,24 @@ Undangan.create([
 { name:'Hj. Alit & Suami',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Nita',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Anita Permatasari',jam_mulai: '09:00', jam_selesai: '15:00' },
-{ name:'Herman & Keluarga',jam_mulai: '09:00', jam_selesai: '15:00' }
+{ name:'Herman & Keluarga',jam_mulai: '09:00', jam_selesai: '15:00' },
+
+{ name:'Nona & Keluarga',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Andini & Keluarga',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Bpk Hang',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ibu Hj. Yati Suryatika',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ibu Hj. Hartina',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Bpk/Ibu Hj. Tedjo',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ibu Hj. Silfri & Suami',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ibu Trinil',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Bpk Wawan & Istri',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Ibu Anita waty & Suami',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Dayat & Istri',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Hary Sahata & Partner',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Dito & partner',jam_mulai: '09:00', jam_selesai: '15:00' }
+
+
+
+
 
                   ])
