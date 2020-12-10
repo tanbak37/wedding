@@ -101,7 +101,7 @@ Undangan.create([
 { name:'Ria',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Hj. Alit & Suami',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Nita',jam_mulai: '09:00', jam_selesai: '15:00' },
-{ name:'Anita Permatasari',jam_mulai: '09:00', jam_selesai: '15:00' }
-
+{ name:'Anita Permatasari',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Herman & Keluarga',jam_mulai: '09:00', jam_selesai: '15:00' }
 
                   ])
