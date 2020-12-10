@@ -118,7 +118,8 @@ Undangan.create([
 { name:'Hary Sahata & Partner',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Dito & partner',jam_mulai: '09:00', jam_selesai: '15:00' },
 { name:'Qoyim & Istri',jam_mulai: '09:00', jam_selesai: '15:00' },
-{ name:'Angga & Istri',jam_mulai: '09:00', jam_selesai: '15:00' }
+{ name:'Angga & Istri',jam_mulai: '09:00', jam_selesai: '15:00' },
+{ name:'Teh Silmy & Suami',jam_mulai: '09:00', jam_selesai: '15:00' }
 
 
 
